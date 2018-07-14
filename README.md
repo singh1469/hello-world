@@ -11,9 +11,11 @@ Because I could find a minimilistic container to return the following:
 ```
 
 ## Run it by
-`docker run -it -p 3000:3000 <image-id>`
+`docker run -it -p 3000:3000 <image>`
 
-image-id=
+image=singh1469/hello-world:latest
+OR
+Clone repo and run `docker build -it hello-world .` giving you a local image-name `hello-world`
 
 ## License
 MIT
