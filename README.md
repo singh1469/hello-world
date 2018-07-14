@@ -1,7 +1,7 @@
 # hello-world
 
 ## Why another one?
-Because I could find a minimilistic container to return the following:
+Because I couldn't find a minimilistic container to return the following:
 
 ```
 {
